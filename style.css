@@ -86,6 +86,6 @@ ul > b{
 }
 @media (max-width: 1100px) {
   .UE {
-    margin: 0;
+    margin-left: 0;
   }
 }
